@@ -1,2 +1,2 @@
 # practice-flutter-firebase
-Experimenting with Flutterfire.
+Experimenting with Flutterfire Codelab.
